@@ -1,0 +1,12 @@
+{
+  "name": "threejs-practise",
+  "version": "1.0.0",
+  "main": "practise.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ezgi Akbaş",
+  "license": "ISC",
+  "description": "A Three.js project for simulating a rain of donuts"
+}
